@@ -1,0 +1,2 @@
+# vmss
+VMSS Script
